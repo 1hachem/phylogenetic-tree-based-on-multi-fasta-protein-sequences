@@ -15,11 +15,11 @@ Belongs to peptidase family M8.
 information from [Expasy](https://enzyme.expasy.org/EC/3.4.24.36).
 
 ## steps
-* getting Leishmanolysin gene sequence from NCBI
-* Blast search for similar gene sequences
-* store in /fasta folder
-* use MUSCLE for alignment
-* construct phylo tree with different distances 
+- getting Leishmanolysin gene sequence from NCBI
+- Blast search for similar gene sequences
+- store in /fasta folder
+- use MUSCLE for alignment
+- construct phylo tree with different distances 
 
 # results 
 **phylogenetic tree of different monkey species**

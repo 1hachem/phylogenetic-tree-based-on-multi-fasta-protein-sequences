@@ -22,7 +22,7 @@ information from [Expasy](https://enzyme.expasy.org/EC/3.4.24.36).
 * construct phylo tree with different distances 
 
 # results 
-**phylo-tree of different monkey species**
+**phylogenetic tree of different monkey species**
 ```
 
                        ______ Theropithecus gelada
